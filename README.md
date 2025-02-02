@@ -1,4 +1,5 @@
 NEET AI Performance Analyzer
+Video Demonstration: https://www.loom.com/share/edef9d24870444fda3afce63c4068dec?sid=c81ff214-fcc7-4536-b07a-3de9408aaac1
 Overview
 The NEET AI Performance Analyzer is a Python-based GUI application that analyzes a student's performance in NEET preparation quizzes. It fetches quiz data from APIs, evaluates the student's strengths and weaknesses, predicts their NEET rank, and provides AI-generated study recommendations.
 Features
